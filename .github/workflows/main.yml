@@ -21,5 +21,8 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
+          allow_empty_commit: true
+          jekyll: true
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: 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
