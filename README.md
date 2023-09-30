@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:00BFFF&height=120&section=header"/>
 
 <div align="center"><br><br> 
-<img width="40%" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=GuiSousa2910&theme=dark&locale=pt_BR&border=a3a2a0&background=45%2C0D1117%2C0D1117" alt="Matheus Kikuti" />
+<img width="47%" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=GuiSousa2910&theme=dark&locale=pt_BR&border=a3a2a0&background=45%2C0D1117%2C0D1117" alt="Matheus Kikuti" />
 <img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=GuiSousa2910&layout=compact&langs_count=10&hide_border=true&title_color=A9A9A9&text_color=FFF&bg_color=0d1117" />
 </div>
 
