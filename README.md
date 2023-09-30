@@ -24,5 +24,5 @@
 
   ![Snake animation](https://github.com/GuiSousa2910/GuiSousa2910/blob/output/github-contribution-grid-snake.svg)
 
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GuiSousa2910&repo=GuiSousa2910&theme=react)](https://github.com/GuiSousa2910/GuiSousa2910)
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=GuiSousa2910&repo=.github/workflows&theme=react)](https://github.com/GuiSousa2910/GuiSousa2910)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:00BFFF&height=120&section=footer"/>
