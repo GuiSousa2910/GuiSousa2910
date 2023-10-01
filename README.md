@@ -24,7 +24,13 @@
 <a href = "https://www.notion.so/Caderno-de-Estudos-16cecc6b23e84167bfd2945f41f2b1e5?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
 </div>
 
-[![Snake Game](https://github.com/GuiSousa2910/GuiSousa2910/actions/workflows/SnakeGame.yml/badge.svg)](https://github.com/GuiSousa2910/GuiSousa2910/actions/workflows/SnakeGame.yml)
-![Snake Game](dist/github-contribution-grid-snake.gif)
+
+[![generate animation](https://github.com/GuiSousa2910/GuiSousa2910/actions/workflows/main.yml/badge.svg)](https://github.com/GuiSousa2910/GuiSousa2910/actions/workflows/main.yml)
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:00BFFF&height=120&section=footer"/>
