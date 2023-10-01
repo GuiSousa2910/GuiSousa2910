@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:00BFFF&height=120&section=header"/>
-[![Typing SVG](https://readme-typing-svg.GuiSousa2910.com/?color=CCC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Gulherme;I'm+17+years+old;I'm+from+Brazil;;Welcome!+:%29)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.GuiSousa2910.com/?color=CCC&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Gulherme;I'm+17+years+old;I'm+from+Brazil;;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center"><br><br> 
 <img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=GuiSousa2910&layout=compact&langs_count=10&hide_border=true&title_color=A9A9A9&text_color=FFF&bg_color=0d1117" />
