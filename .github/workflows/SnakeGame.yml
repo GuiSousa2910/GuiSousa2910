@@ -1,13 +1,13 @@
-# Nome da Actions:  
+# Nome da Actions:
 name: Snake Game
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
-      # Será atualizado a cada 5 horas.
+    # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
 
-# Permite executar na na lista de Actions (utilizado para testes de build).
+  # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
 
 # Regras
@@ -15,15 +15,14 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
 
-    # Repositorio que será utilizado para gerar os arquivos.
+      # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: GuiSousa2910 #Seu usuario
+          github_user_name: GuiSousa2910  # Seu usuário do GitHub
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
@@ -40,7 +39,7 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
+          target_branch: gh-pages  # Substitua pelo nome da branch do GitHub Pages
+          build_dir: dist  # Substitua pelo diretório de construção do seu site
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
