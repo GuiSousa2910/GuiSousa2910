@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=38&duration=2100&pause=200&color=0000FF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Sou+o+Guilherme.;Tenho+18+anos.;Curso+ADS+na+SPTech!;Seja+bem+vindo!!)](https://git.io/typing-svg)
 
 <div align="center"><br><br> 
-<img width="60%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=GuiSousa2910&layout=compact&langs_count=10&hide_border=true&title_color=A9A9A9&text_color=FFF&bg_color=0d1117" />
+<img width="45%" height="200px" src="https://github-readme-stats-74zg.vercel.app/api/top-langs/?username=GuiSousa2910&layout=compact&langs_count=10&hide_border=true&title_color=A9A9A9&text_color=FFF&bg_color=0d1117" />
 <!-- <img width="47%" height="200px" src="http://github-readme-streak-stats.herokuapp.com?user=GuiSousa2910&theme=dark&locale=pt_BR&border=a3a2a0&background=45%2C0D1117%2C0D1117" /> -->
 </div>
 <img align="left" alt="Cat" height="300" width="300" src="https://github.com/GuiSousa2910/GuiSousa2910/assets/122701467/41c4de82-a04c-45de-9ffa-b51e0f19f00b">
