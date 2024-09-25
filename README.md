@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=GuiSousa2910&color=006bed)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:000080,100:00BFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=38&duration=2100&pause=200&color=0000FF&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+Sou+o+Guilherme.;Tenho+18+anos.;Curso+ADS+na+SPTech!;Seja+bem+vindo!!)](https://git.io/typing-svg)
