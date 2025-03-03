@@ -22,7 +22,7 @@
 <br>
 <a href="https://instagram.com/_gui_sousaa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:guilhermesousa4346@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://www.notion.so/Caderno-de-Estudos-16cecc6b23e84167bfd2945f41f2b1e5?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/guilherme-sousa-agostinho/"><img src="https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/GuiSousa2910/GuiSousa2910/output/github-contribution-grid-snake-dark.svg)
